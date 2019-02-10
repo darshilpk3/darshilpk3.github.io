@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Ruchin Patel
-email: ruchinpa@usc.edu | 432-266-2949
-description: ruchinpa@usc.edu | 432-266-2949
+title: Darshil Kapadia
+email: darshilkapadia9@gmail.com | 6692104620
+description: darshilkapadia9@gmail.com | 6692104620
 baseurl: "" # the subpath of your site, e.g. /blog
-github_username:  ruchin33
-linkedin_username: ruchin-patel
+github_username:  darshilpk3
+linkedin_username: darshilpkapadia
 
 # Build settings
 markdown: kramdown
