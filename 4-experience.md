@@ -29,13 +29,13 @@ tagline: "By date"
    <p>  <div class="manual-content">
   <a  href="\papers\DarshilKapadia-Lab3-Report.pdf"  style="font-weight: bolder;">
       HomeAway Prototype using GraphQL</a><br>
-      Deployed a HomeAway Prototype using GraphQL to eliminate some of the problems like over-fetching, under-fetching etc that the RESTful API suffers from.<br><i>Mar 2018</i>.<br><span>[<a href="https://github.com/darshilpk3/HomeAway-Prototype-using-MERN-Stack">code</a>]</span>
+      Deployed a HomeAway Prototype using GraphQL to eliminate some of the problems like over-fetching, under-fetching etc that the RESTful API suffers from.<br><i>Sept 2018</i>.<br><span>[<a href="https://github.com/darshilpk3/HomeAway-Prototype-using-MERN-Stack">code</a>]</span>
   </div>
 </p>
    <p>  <div class="manual-content">
   <a  href="\papers\Homeaway_Report.pdf"  style="font-weight: bolder;">
       HomeAway Prototype using MERN Stack</a><br>
-      Deployed a HomeAway Prototype using MERN Stack on Amazon Web Services(AWS). It also uses Kafka as message queues and for publish/subscribe architechture. It keeps in mind the enterprise wide use and thus the architechture with thich the application has been developed and hosted supports Availability and Partitioning.<br><i>Mar 2018</i>.<br><span>[<a href="https://github.com/darshilpk3/HomeAway-Prototype-using-MERN-Stack">code</a>]</span>
+      Deployed a HomeAway Prototype using MERN Stack on Amazon Web Services(AWS). It also uses Kafka as message queues and for publish/subscribe architechture. It keeps in mind the enterprise wide use and thus the architechture with thich the application has been developed and hosted supports Availability and Partitioning.<br><i>Aug 2018</i>.<br><span>[<a href="https://github.com/darshilpk3/HomeAway-Prototype-using-MERN-Stack">code</a>]</span>
   </div>
 </p>
 	
