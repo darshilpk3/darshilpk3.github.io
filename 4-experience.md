@@ -12,54 +12,39 @@ tagline: "By date"
 <!--   <div class="manual manual-title">
   <strong>2017</strong>
   </div> -->
-   
+    <p>  <div class="manual-content">
+  <a  href="#"  style="font-weight: bolder;">
+      LinkedIn Prototype using MERN Stack</a><br>
+      Deployed a LinkedIn Prototype using MERN Stack on Amazon Web Services(AWS) carried as an Enterprise Distributed Systems project. It uses Kafka as message queues and for publish/subscribe architechture. Along with MongoDB, it also uses MySQL database for data which requires high security. It keeps in mind the enterprise wide use and thus the architechture with thich the application has been developed and hosted supports Availability and Partitioning. For faster responses, it also uses Redis caching of both the databases' data. 
+      Also carried out testing using Mocha Test Cases and JMeter tool.<br><i>Nov 2018</i>.<br><span>[<a href="https://github.com/darshilpk3/LinkedIn-Prototype-using-MERN-Stack">code</a>]</span>
+  </div>
+</p>
    <p>  <div class="manual-content">
-  <a  href="/papers/Analysis_of_Erlang_distribution.html"  style="font-weight: bolder;">
-      Analyzing the Erlang Distribution</a><br>
-      Exponential random variables and analyzing how their sum end up to be an Erlang distribution. Theoretical and simulations are covered in this project.<br><i>Mar 2018</i>.<br><span>[<a href="https://github.com/ruchin33/Probability_and_Inferential_Statistics/tree/master/Analysis_of_Erlang_Distribution">code</a>]</span>
+  <a  href="\papers\Statistical Analysis of Hospital Data using MPC.pdf"  style="font-weight: bolder;">    
+      Statistical Analysis of Hospital Data using MPC</a><br>
+      With the increasing competition and the need to apply machine learning to data to get useful insights is also increasing. This project gives a proof of concept to use Multi Party Computation(MPC) in the real world to apply data mining algorithms on data which requires high security. <a href="https://en.wikipedia.org/wiki/Secure_multi-party_computation">Click here<a> to know more about Multi Party Computation.
+      This project forecasts the expected number of patients of each hospital taking part in the computation using ARIMA Model. It has python flask's backend and React frontend to communicate with the backend. It uses mongoDB as database. <br><i>Nov 2018</i>.<br><span>[<a href="https://github.com/darshilpk3/Statistical-Analysis-of-Hospital-Data-using-MPC">code</a>]</span>
+  </div>
+</p>
+   <p>  <div class="manual-content">
+  <a  href="\papers\DarshilKapadia-Lab3-Report.pdf"  style="font-weight: bolder;">
+      HomeAway Prototype using GraphQL</a><br>
+      Deployed a HomeAway Prototype using GraphQL to eliminate some of the problems like over-fetching, under-fetching etc that the RESTful API suffers from.<br><i>Mar 2018</i>.<br><span>[<a href="https://github.com/darshilpk3/HomeAway-Prototype-using-MERN-Stack">code</a>]</span>
+  </div>
+</p>
+   <p>  <div class="manual-content">
+  <a  href="\papers\Homeaway_Report.pdf"  style="font-weight: bolder;">
+      HomeAway Prototype using MERN Stack</a><br>
+      Deployed a HomeAway Prototype using MERN Stack on Amazon Web Services(AWS). It also uses Kafka as message queues and for publish/subscribe architechture. It keeps in mind the enterprise wide use and thus the architechture with thich the application has been developed and hosted supports Availability and Partitioning.<br><i>Mar 2018</i>.<br><span>[<a href="https://github.com/darshilpk3/HomeAway-Prototype-using-MERN-Stack">code</a>]</span>
   </div>
 </p>
 	
    <p>  <div class="manual-content">
-  <a  href="/papers/Project_Statistics_and_bootstrapping.html"  style="font-weight: bolder;">
-      Analyzing the statistics of Bootstrapping methods.</a><br>
-      The project understands the underlying statistics of bootstrapping method and its validity.<br><i>Mar 2018</i>.<br><span>[<a href="https://github.com/ruchin33/Probability_and_Inferential_Statistics/tree/master/Statistics_bootstrapping">code</a>]</span>
+  <a  href="#"  style="font-weight: bolder;">
+      E-Commerce Prototype using Django</a><br>
+      Developed a simple e-commerce featured website using Django. Uses mongoDB as a database.
+      <br><i>Mar 2018</i>.
   </div>
-</p>
-   
-   <p>  <div class="manual-content">
-  <a  href="/papers/EDA_BRFSS.pdf"  style="font-weight: bolder;">
-      Exploratory Data Analysis of BRFSS Census Data</a><br>
-      Does exploratory data Analysis to extract insights about data..<br><i>Mar 2018</i>.<br><span>[<a href="https://github.com/ruchin33/Probability_and_Inferential_Statistics/tree/master/Final_Proj_Prob_data_inference_BRFSS_data">code</a>]</span>
-  </div>
-</p>
-   
-   <p>  <div class="manual-content">
-  <a  href="/papers/EDA_BRFSS.pdf"  style="font-weight: bolder;">
-      Exploratory Data Analysis of BRFSS Census Data</a><br>
-      Does exploratory data Analysis to extract insights about data..<br><i>Mar 2018</i>.<br><span>[<a href="https://github.com/ruchin33/Probability_and_Inferential_Statistics/tree/master/Final_Proj_Prob_data_inference_BRFSS_data">code</a>]</span>
-  </div>
-</p>
-   
-   <p>  <div class="manual-content">
-  <a  href="/papers/Analysis_of_Random_Var.html"  style="font-weight: bolder;">
-      Analysis of Uniform Random Variable and The central Limit Theorem </a><br>
-      Uses Exploratory Data Analysis an simulations to analyze discrete Random Variables and prove the Central Limit Theorem.<br><i>Jan 2018</i>.<br><span>[<a href="https://github.com/ruchin33/Probability_and_Inferential_Statistics/tree/master/Project_Analysis_of_Random_variables">code</a>]</span>
-      </div>
-</p>
-   
-   <p>  <div class="manual-content">
-  <a  href="/papers/Monte_Carlo_methods.html"  style="font-weight: bolder;">
-      Analyze different Monte Carlo techniques </a><br>
-      Determines the value of pi, euler's number using monte Carlo techniques. Also contains method to estimate the value of a definite Integral(Much faster algorithm than normal Integral algorithms).<br><i>Feb 2018</i>.<br><span>[<a href="https://github.com/ruchin33/Probability_and_Inferential_Statistics/tree/master/Project_Analysis_of_Random_variables">code</a>]</span>
-      </div>
-</p>
-   
-   <p>  <div class="manual-content">
-  <a  href="/papers/report_Derieved_distributions.html"  style="font-weight: bolder;">
-      Analyze Derived distributions using Continuous uniform random variables </a><br>
-      This project uses Central limit Theorem and Hypothesis Testing to predict the PDF and expected values of Derived distributions. It also contains theoretical derivations of the same PDF and expected values]. Finally we compare the theoretical and the simulated values to prove how the and why the Central Limit theorem works. For more information follow the links. <br><i>Mar 2018</i>.<br><span>[<a href="https://github.com/ruchin33/Probability_and_Inferential_Statistics/tree/master/Project_Derieved_Distributions">code</a>]</span>
-      </div>
 </p>
 </div>
 

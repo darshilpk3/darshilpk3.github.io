@@ -16,7 +16,7 @@ tagline: "By date"
    <p>  <div class="manual-content">
   <a href="\papers\HOP_Report_Sem8.pdf"  style="font-weight: bolder;">
       Senior Year Project: Home On Phone - Adding value to your home</a><br>
-      The goal of this project was to encourage the government’s initiative to make the city smarter. This project includes some very useful features which can be used in day to day life and which were selected after observing the difficulties that we face in our daily life. Along with making the homes smarter, this project also focuses on conserving the energy viz. Electrical Energy. Another remarkable thing was that the investment needed to bring the control of your home to the phone was made very cheaper with this project. This project includes various features/modules which focuses on areas like Enhanced Security, Energy Conservation, Easy control to home appliances etc. These features are divided into various modules like:<br>
+      The goal of this project was to encourage the government’s initiative to make the city smarter. This project includes some very useful features which can be used in day to day life and which were selected after observing the difficulties that we face in our daily life. Along with making the homes smarter, this project also focuses on conserving the energy viz. Electrical Energy. Another remarkable thing was that the investment needed to bring the control of your home to the phone was made very cheaper with this project. This project includes various features/modules which focuses on areas like Enhanced Security, Energy Conservation, Easy to control home appliances etc. These features are divided into various modules like:<br>
         <b>Module – I: Security through Geo-Fencing</b><br>
         In this module, we'll alert the user as soon as someone enters the room (which should not be
         compromised) along with the photo of the person entering and without making the person entering
@@ -35,7 +35,7 @@ tagline: "By date"
         In this module, we are going to make an android application which will be integration of all the
         modules and through this application all the home appliances can be controlled by the user.<br>
     Programming Language used to make NodeMCU, Sensors and Android Application communicate between each other is Lua.
-<br><i>Aug 2016 - Aril 2017</i>.<br><span>[<a href="https://github.com/darshilpk3/Senior-Year-Project">code</a>]</span>
+<br><i>Aug 2016 - Aril 2017</i>.<br><span>[<a href="https://github.com/darshilpk3/Senior-Year-Project">code</a>][<a href="https://www.youtube.com/watch?v=Eh66W3BsRpE">Demo</a>]</span>
   </div>
 </p>
 
