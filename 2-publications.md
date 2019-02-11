@@ -1,7 +1,7 @@
 ---
 layout: page
-title :  "| MACHINE LEARNING PROJECTS |" 
-permalink: /ML Projects/
+title :  "| Undergrad Projects |" 
+permalink: /Undergrad Projects/
 tagline: "By date"
 ---
 <!--<div class="tagline">
@@ -14,53 +14,26 @@ tagline: "By date"
   </div> -->
    
    <p>  <div class="manual-content">
-  <a  href="/papers/Recommender_System_report_Capstone.pdf"  style="font-weight: bolder;">
-      A Recommender System for Amazon products based on Sentiment analysis of Reviews. Supervised Learning/Natural Language Processing/Collaborative filtering</a><br>
-      The project goes through different techniques of supervised learning like AdaBoost, Random Forest, Logistic regression etc. to classify the underlying sentiment of the reviews given to every product and based on those sentiments recommendations are made to the users with the help of collaborative filtering.<br><i>Dec 2018</i>.<br><span>[<a href="https://github.com/ruchin33/MACHINE-LEARNING-PROJECTS/tree/master/Recommender_System_Project">code</a>]</span>
+  <a href="https://github.com/darshilpk3/Undergrad-Open-Ended-Problems/tree/master/AlgorithmsOEP"  style="font-weight: bolder;">
+      Analysis and Design of Algorithms: Find and Replace feature using Knuth Morris Pratt Algorithm</p><br>
+      As the name suggests, I implemented "find and replace" feature, one of the mostly used feature in any text editor using Knuth Morris Pratt algorithm. Knuth Morris Pratt is a string searching algorithm which searches for a given string within a text based on mismatch occurence. It's the first linear time string searching algorithm. 
+      Implemented in C.<br><i>Dec 2016</i>.<br><span>[<a href="https://github.com/darshilpk3/Undergrad-Open-Ended-Problems/tree/master/AlgorithmsOEP">code</a>]</span>
   </div>
 </p>
    
    <p>  <div class="manual-content">
-  <a  href="/papers/cust_seg.html"  style="font-weight: bolder;">
-      Finding Customer segments for a whole sale distributor for delivery schedules: Unsupervised Learning(Clustering)</a><br>
-      This project uses K-Means clustering, Gaussian Mixture model clustering,feature selection methods, Decision Trees, PCA, data cleaning and data wrangling techniques.<br><i>Mar 2018</i>.<br><span>[<a href="https://github.com/ruchin33/MACHINE-LEARNING-PROJECTS/tree/master/Customer_Segments_wholesale_dist(unsupervised_learning)">code</a>]</span>
+  <a  href="https://github.com/darshilpk3/Undergrad-Open-Ended-Problems/tree/master/ComputerGraphicsOEP"  style="font-weight: bolder;">
+      Computer Graphics: A simple 3 lane car racing game.</a><br>
+      Developed a simple car racing game in C using the basics of Computer Graphics. The player gets 3 life to progress through levels and complete the whole track. The speed increases while progressing through each level by minimizing the delay of a car reappearing. A simple twist has also been included by adding a story to this simple game.<br><i>Mar 2016</i>.<br><span>[<a href="https://github.com/darshilpk3/Undergrad-Open-Ended-Problems/tree/master/ComputerGraphicsOEP">code</a>]</span>
   </div>
 </p>
    
    <p>  <div class="manual-content">
-  <a  href="/papers/donor_charity.html"  style="font-weight: bolder;">
-      Predicting salary of a person from US Census data for Charity: Supervised Learning(Classification)</a><br>
-      This Project uses SVM,Perceptron,AdaBoost classifier. Data wrangling and Data Cleaning is done from scratch.<br><i>Jan 2018</i>.<br><span>[<a href="https://github.com/ruchin33/MACHINE-LEARNING-PROJECTS/tree/master/Finding_donors_for_charity(supervised_learning)">code</a>]</span>
+  <a  href="https://github.com/darshilpk3/Undergrad-Open-Ended-Problems/tree/master/WebTechnologyOEP"  style="font-weight: bolder;">
+      Web Technology: Food Ordering Website</a><br>
+      This project demonstrates a simple food ordering website implemented using HTML, CSS and PHP. For maintaining the users and their orders and carts, I have used MySql as a database.<br><i>Jan 2016</i>.<br><span>[<a href="https://github.com/darshilpk3/Undergrad-Open-Ended-Problems/tree/master/WebTechnologyOEP">code</a>]</span>
   </div>
 </p> 
-   
-   <p>  <div class="manual-content">
-  <a  href="/papers/long_term_deposit.pdf"  style="font-weight: bolder;">
-      Predicting potential clients who would open a long term deposit account at a Lisbon bank: Supervised Learning(Classification) </a><br>
-      Uses generative probability models like SMOTE,and classifiers like neural networks,SVM,Minimum risk Bayes classifier and perceptron.<br><i>Nov 2017</i>.<br><span>[<a href="https://github.com/ruchin33/MACHINE-LEARNING-PROJECTS/tree/master/Finding_potential_customers_for_Lisbon_bank(supervised_learning">code</a>]</span>
-  </div>
-</p> 
-   
-   <p>  <div class="manual-content">
-  <a  href="/papers/boston_prices.html"  style="font-weight: bolder;">
-      Predicting Boston house prices based on Historical data: Supervised Learning(Regression)</a><br>
-      This project consists of regressors like Decision Tree Regressor and AdaBoost regressor.<br><i>Aug 2017</i>.<br><span>[<a href="https://github.com/ruchin33/MACHINE-LEARNING-PROJECTS/tree/master/Predicting_Boston_House_prices">code</a>]</span>
-  </div>
-</p> 
-   
-   <p>  <div class="manual-content">
-  <a  href="/papers/sentiment_analysis.pdf"  style="font-weight: bolder;">
-      Prediction of the underlying sentiments of Amazon book reviews: Supervised Learning(Multiclass Classification)</a><br>
-      Uses Naive Bayes model to predict these sentiments after converting the data-set in bag of word format.<br><i>Feb 2017</i>.<br><span>[<a href="https://github.com/ruchin33/MACHINE-LEARNING-PROJECTS/tree/master/Final_Proj_Sentiment_analysis_Amazon_reviews">code</a>]</span>
-  </div>
-</p>
-   
-   <p>  <div class="manual-content">
-  <a  href="/papers/titanic_survival.html"  style="font-weight: bolder;">
-      Exploratory Data Analysis of survival rates of titanic ship wreck.</a><br>
-      Uses Decision tress and adaboost.<br><i>Nov 2016</i>.<br><span>[<a href="https://github.com/ruchin33/MACHINE-LEARNING-PROJECTS/tree/master/Titanic_RMS_survival_project">code</a>]</span>
-  </div>
-</p>
 </div>
 
 
