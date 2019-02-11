@@ -1,7 +1,7 @@
 ---
 layout: page
-title : " STATISTICS PROJECTS |" 
-permalink: /Stat Proj/
+title : " Post Graduate Projects |" 
+permalink: /PGProjects/
 tagline: "By date"
 ---
 <!--<div class="tagline">

@@ -1,7 +1,7 @@
 ---
 layout: page
 title :  "| Undergrad Projects |" 
-permalink: /Undergrad Projects/
+permalink: /UndergradProjects/
 tagline: "By date"
 ---
 <!--<div class="tagline">
