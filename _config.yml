@@ -12,7 +12,7 @@ description: darshilkapadia9@gmail.com | 6692104620
 baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  darshilpk3
 linkedin_username: darshilpkapadia
-dark: true
+
 
 # Build settings
 markdown: kramdown

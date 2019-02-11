@@ -1,6 +1,6 @@
 ---
 layout: archive
-title : "Updates"
+title : "                                                                Updates"
 category: "updates"
 permalink: /updates/
 ---
