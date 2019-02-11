@@ -22,7 +22,7 @@ tagline: "By date"
    <p>  <div class="manual-content">
   <a  href="\papers\Statistical Analysis of Hospital Data using MPC.pdf"  style="font-weight: bolder;">    
       Statistical Analysis of Hospital Data using MPC</a><br>
-      With the increasing competition and the need to apply machine learning to data to get useful insights is also increasing. This project gives a proof of concept to use Multi Party Computation(MPC) in the real world to apply data mining algorithms on data which requires high security. <a href="https://en.wikipedia.org/wiki/Secure_multi-party_computation">Click here<a> to know more about Multi Party Computation.
+      With the increasing competition and the need to apply machine learning to data to get useful insights is also increasing. This project gives a proof of concept to use Multi Party Computation(MPC) in the real world to apply data mining algorithms on data which requires high security. <a href="https://en.wikipedia.org/wiki/Secure_multi-party_computation">Click here</a> to know more about Multi Party Computation.
       This project forecasts the expected number of patients of each hospital taking part in the computation using ARIMA Model. It has python flask's backend and React frontend to communicate with the backend. It uses mongoDB as database. <br><i>Nov 2018</i>.<br><span>[<a href="https://github.com/darshilpk3/Statistical-Analysis-of-Hospital-Data-using-MPC">code</a>]</span>
   </div>
 </p>
