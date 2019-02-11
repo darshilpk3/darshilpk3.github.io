@@ -15,7 +15,7 @@ tagline: "By date"
    
    <p>  <div class="manual-content">
   <a href="https://github.com/darshilpk3/Undergrad-Open-Ended-Problems/tree/master/AlgorithmsOEP"  style="font-weight: bolder;">
-      Analysis and Design of Algorithms: Find and Replace feature using Knuth Morris Pratt Algorithm</p><br>
+      Analysis and Design of Algorithms: Find and Replace feature using Knuth Morris Pratt Algorithm</a><br>
       As the name suggests, I implemented "find and replace" feature, one of the mostly used feature in any text editor using Knuth Morris Pratt algorithm. Knuth Morris Pratt is a string searching algorithm which searches for a given string within a text based on mismatch occurence. It's the first linear time string searching algorithm. 
       Implemented in C.<br><i>Dec 2016</i>.<br><span>[<a href="https://github.com/darshilpk3/Undergrad-Open-Ended-Problems/tree/master/AlgorithmsOEP">code</a>]</span>
   </div>
@@ -34,6 +34,7 @@ tagline: "By date"
       This project demonstrates a simple food ordering website implemented using HTML, CSS and PHP. For maintaining the users and their orders and carts, I have used MySql as a database.<br><i>Jan 2016</i>.<br><span>[<a href="https://github.com/darshilpk3/Undergrad-Open-Ended-Problems/tree/master/WebTechnologyOEP">code</a>]</span>
   </div>
 </p> 
+</div>
 </div>
 
 

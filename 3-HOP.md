@@ -15,7 +15,7 @@ tagline: "By date"
    
    <p>  <div class="manual-content">
   <a href="\papers\HOP_Report_Sem8.pdf"  style="font-weight: bolder;">
-      Home On Phone: Adding value to your home</p><br>
+      Home On Phone: Adding value to your home</a><br>
       The goal of this project was to encourage the government’s initiative to make the city smarter. This project includes some very useful features which can be used in day to day life and which were selected after observing the difficulties that we face in our daily life. Along with making the homes smarter, this project also focuses on conserving the energy viz. Electrical Energy. Another remarkable thing was that the investment needed to bring the control of your home to the phone was made very cheaper with this project. This project includes various features/modules which focuses on areas like Enhanced Security, Energy Conservation, Easy control to home appliances etc. These features are divided into various modules like:
         Module – I: Security through Geo-Fencing
         In this module, we'll alert the user as soon as someone enters the room (which should not be
@@ -39,6 +39,7 @@ tagline: "By date"
   </div>
 </p>
  
+</div>
 </div>
 
 
