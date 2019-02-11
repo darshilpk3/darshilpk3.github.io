@@ -29,7 +29,7 @@ tagline: "By date"
    <p>  <div class="manual-content">
   <a  href="\papers\DarshilKapadia-Lab3-Report.pdf"  style="font-weight: bolder;">
       HomeAway Prototype using GraphQL</a><br>
-      Deployed a HomeAway Prototype using GraphQL to eliminate some of the problems like over-fetching, under-fetching etc that the RESTful API suffers from.<br><i>Sept 2018</i>.<br><span>[<a href="https://github.com/darshilpk3/HomeAway-Prototype-using-MERN-Stack">code</a>]</span>
+      Deployed a HomeAway Prototype using GraphQL to eliminate some of the problems like over-fetching, under-fetching etc that the RESTful API suffers from.<br><i>Sept 2018</i>.<br><span>[<a href="https://github.com/darshilpk3/HomeAway-using-GraphQL">code</a>]</span>
   </div>
 </p>
    <p>  <div class="manual-content">
