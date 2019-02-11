@@ -8,10 +8,14 @@
 <div class="wrapper">
   <div class="trigger site-navigation">
     {% for sitePage in site.pages %}
-	    {% if sitePage.title %}
-	    <a style="font-size:14px" class="page-link" href="{{sitePage.url | prepend: site.baseurl }}">{{sitePage.title}}</a>
-		    {% if sitePage.title != "Updates" %}
-		    {% endif %}
+      {% if sitePage.title %}
+        {% if sitePage.title == "Updates" %}
+        <center>
+          <a style="font-size:14px" class="page-link" href="{{sitePage.url | prepend: site.baseurl }}">{{sitePage.title}}</a>
+        </center>    
+        {% else %}
+          <a style="font-size:14px" class="page-link" href="{{sitePage.url | prepend: site.baseurl }}">{{sitePage.title}}</a>
+        {% endif %}
 	    {% endif %}
     {% endfor %}
   </div>

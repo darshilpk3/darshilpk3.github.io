@@ -33,9 +33,9 @@ tagline: "By date"
   </div>
 </p>
    <p>  <div class="manual-content">
-  <a  href="\papers\Homeaway_Report.pdf"  style="font-weight: bolder;">
+  <a  href="\papers\Homeaway_Report.pdf"  style="font-weight: bolder;text-align:justify;text-justify:auto">
       HomeAway Prototype using MERN Stack</a><br>
-      Deployed a HomeAway Prototype using MERN Stack on Amazon Web Services(AWS). It also uses Kafka as message queues and for publish/subscribe architechture. It keeps in mind the enterprise wide use and thus the architechture with thich the application has been developed and hosted supports Availability and Partitioning.<br><i>Aug 2018</i>.<br><span>[<a href="https://github.com/darshilpk3/HomeAway-Prototype-using-MERN-Stack">code</a>]</span>
+      Deployed a HomeAway Prototype using MERN Stack on Amazon Web Services(AWS). It also uses Kafka as message queues and for publish/subscribe architechture and Redux for state management. It keeps in mind the enterprise wide use and thus the architechture with thich the application has been developed and hosted supports Availability and Partitioning. Used PassportJS and JWT Tokens for authentication.<br><i>Aug 2018</i>.<br><span>[<a href="https://github.com/darshilpk3/HomeAway-Prototype-using-MERN-Stack">code</a>]</span>
   </div>
 </p>
 	
