@@ -14,7 +14,7 @@ tagline: "By date"
   </div> -->
    
    <p>  <div class="manual-content">
-  <a href="\papers\HOP_Report_Sem8.pdf"  style="font-weight: bolder;">
+  <a href="\papers\HOP_Report_Sem8.pdf"  style="font-weight: bolder;text-align: justify;text-justify: inter-word;">
       Senior Year Project: Home On Phone - Adding value to your home</a><br>
       The goal of this project was to encourage the government’s initiative to make the city smarter. This project includes some very useful features which can be used in day to day life and which were selected after observing the difficulties that we face in our daily life. Along with making the homes smarter, this project also focuses on conserving the energy viz. Electrical Energy. Another remarkable thing was that the investment needed to bring the control of your home to the phone was made very cheaper with this project. This project includes various features/modules which focuses on areas like Enhanced Security, Energy Conservation, Easy to control home appliances etc. These features are divided into various modules like:<br>
         <b>Module – I: Security through Geo-Fencing</b><br>
@@ -40,7 +40,7 @@ tagline: "By date"
 </p>
 
 <p>  <div class="manual-content">
-  <a href="\papers\Smart-City.pptx"  style="font-weight: bolder;">
+  <a href="\papers\Smart-City.pptx"  style="font-weight: bolder;text-align: justify;text-justify: inter-word;">
       Internship: Smart Pole using NodeJS, Express, Mongo and jQuery</a><br>
       This project was carried out during my internship in R.K Infratel. This was a proof of concept to implement a smart traffic pole which connects to different sensors like temperature sensor, wind temperature, water level temeprature to name a few. The sensors used were of iMonnit which displays the information/reading on the Smart-Pole web services created using HTML, CSS, Bootstrap and jQuery.<br>
       Developed a RestAPI using NodeJS and Express which is used by the web service to communicate to the backend to get the sensor readings. To store the sensors' data and users' information, database used is MongoDB as it supports high replication of data and unstructured data as well.<br>
