@@ -20,8 +20,9 @@ tagline: "By date"
       <b>Frontend:</b> The frontned was deployed on Heroku which has inbuilt load-balancing. We implemented CI/CD pipeline on the deployed frontend with a trigger on Github Repository. As soon as any change is pushed on to the github master branch, the pipeline will start with building process and deploying it automatically on a successful build.<br>
       <b>Login Microservice and Booking Microservice:</b> These microservices' architechture was based on Kubernetes Cluster. We created an AWS EKS(Elastic Kubernetes Service) cluster with an auto-scaled node groups having capacity from 2-5. The nodes will have 2 pods in each of them running the docker image of the Login Service and another cluster running Booking Service.<br>
       <b>Property Microservice and Dashboard Micrservice:</b> These microservices' architechture uses AWS CodeBuild and AWS ECS(Elastic Container Service) cluster. The CodeBuild will trigger a new build as soon as any change is pushed to the github repository and in turn starting the CI Pipeline. On successful build, the codebuild will push the new docker image to the AWS Elastic Container Registry(ECR) on which the ECS cluster will be running. As soon as the new image is pushed with the "latest" tag to that image, the ECS Fargate cluster will acknowledge that change and will start provisioning the instances to run the latest image and hence completing the CI/CD Pipeline.
-      <br><i>Nov 2019</i>.<br><span>[<a href="https://github.com/nguyensjsu/fa19-281-tech-phantoms#architecture-diagram">Detailed Architechture</a>]</span>
-      <br><i>Nov 2019</i>.<br><span>[<a href="https://github.com/nguyensjsu/fa19-281-tech-phantoms">code</a>]</span>
+      <br><i>Nov 2019</i>.<br>
+      <span>[<a href="https://github.com/nguyensjsu/fa19-281-tech-phantoms">code</a>]</span>
+      <span>[<a href="https://github.com/nguyensjsu/fa19-281-tech-phantoms#architecture-diagram">detailed-architechture</a>]</span>
   </div>
 </p>
 
@@ -41,7 +42,9 @@ tagline: "By date"
       Hackathon Management System using Spring Framework</a><br>
       Hackathon Management System is a platform which brings organisers and hackers together. This system allows hackathon admins to create hackathons and the hackers to participate in the hackathons. It also provides invitation to a non-member and generates a revenue report at the end of each hackathon.<br>
       The system's frontend is developed using AntDesign and React.js. The backend is developed using Spring framework and its various modules. The system uses JPA as an Object-Relational-Mapping tool to interact with the MySQL database. Along with that, the system provides RESTful APIs developed using Spring MVC to help frontend interact with the backend system. It also takes advantage of Spring IOC and Spring Aspect Oriented Programming concepts to enhance the performance of the backend. 
-      The system is deployed on AWS using Elastic BeanStalk which provides Java Runtime Enviornment and frontend was deploed on a load-balanced EC2 instances.<br><i>May 2019</i>.<br><span>[<a href="https://github.com/darshilpk3/HackathonManagementSystem-using-Spring-Framework">code</a>]</span><br><span>[<a href="https://drive.google.com/drive/folders/1Gk4fihrDWvUvOVeqDGHqsQCeixxT0YXh?usp=sharing">Demonstration Video</a>]</span>
+      The system is deployed on AWS using Elastic BeanStalk which provides Java Runtime Enviornment and frontend was deploed on a load-balanced EC2 instances.<br><i>May 2019</i>.<br>
+      <span>[<a href="https://github.com/darshilpk3/HackathonManagementSystem-using-Spring-Framework">code</a>]</span>
+      <span>[<a href="https://drive.google.com/drive/folders/1Gk4fihrDWvUvOVeqDGHqsQCeixxT0YXh?usp=sharing">demo</a>]</span>
   </div>
 </p>
 <p>  <div class="manual-content">
