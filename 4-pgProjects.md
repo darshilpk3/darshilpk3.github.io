@@ -14,7 +14,7 @@ tagline: "By date"
   </div> -->
 
   <p>  <div class="manual-content">
-  <a  href="https://github.com/nguyensjsu/fa19-281-tech-phantoms"  style="font-weight: bolder;text-align: justify;text-justify: inter-word;">
+  <a  href="\papers\Airbnb_DevOps.pdf"  style="font-weight: bolder;text-align: justify;text-justify: inter-word;">
       Airbnb Clone with CI/CD(Continuous Integration/Continuous Delivery) Pipeline - A DevOps Project</a><br>
       Developed an Airbnb clone with frontend in React.js and 4 microservices viz. Login microservice, Property microservice, Booking microservice, Dashboard Microservice. All the microservices were deployed on 4 different AWS VPCs addressing the Y-axis scale of AKF Scale Cube.Database used was MongoDB with sharding implemented to address the Z-axis scale of AKF Scale Cube.<br>
       <b>Frontend:</b> The frontned was deployed on Heroku which has inbuilt load-balancing. We implemented CI/CD pipeline on the deployed frontend with a trigger on Github Repository. As soon as any change is pushed on to the github master branch, the pipeline will start with building process and deploying it automatically on a successful build.<br>
@@ -45,7 +45,7 @@ tagline: "By date"
   </div>
 </p>
 <p>  <div class="manual-content">
-  <a  href="https://github.com/darshilpk3/Stock-Portfolio-Suggestion-using-Python-Flask/blob/master/StockPortfolioSuggestion.pdf"  style="font-weight: bolder;text-align: justify;text-justify: inter-word;">
+  <a  href="\papers\StockPortfolioSuggestion.pdf"  style="font-weight: bolder;text-align: justify;text-justify: inter-word;">
       Stock Portfolio Suggestion Engine using Python Flask</a><br>
       Stock Portfolio Suggestion Engine provides suggestions to users on which stocks to buy based on various investment strategies like Ethical Investing, Growth Investing, Value Investing and many more. The frontend is developed using React.js and the backend is developed using Python. The backend provides RESTful APIs developed using Flask microframework which helps frontend's communication with backend. The system provides the stock report using graphs provided with the help of Rechart.js to show the current behavior of that stock. The stock data is acquired using IEX and Aplha Vantage.<br><i>Apr 2019</i>.<br><span>[<a href="https://github.com/darshilpk3/Stock-Portfolio-Suggestion-using-Python-Flask">code</a>]</span>
   </div>
